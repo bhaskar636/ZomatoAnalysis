@@ -17,12 +17,19 @@ Cleaned the data, and it is ready for developing the Interactive Dashboard.
 The analysis that we are going to perform shall answer the following questions:
 
 Total restaurants and total cuisines all over the world?
+
 Which countries have the greatest number of restaurants enrolled in Zomato?
+
 Which cities in India have the greatest number of "value for money restaurants?
+
 What are the top 10 cuisines that have the highest number of votes in India.?
+
 Which countries have restaurants that deliver online?
+
 In terms of the number of restaurants, which locality has the most?
+
 Which Restaurants have Good Cuisine and an average rating?
+
 
 # Dashboard
 <img width="1266" height="705" alt="image" src="https://github.com/user-attachments/assets/ce3357be-5121-4337-a8a4-d0a8155b7218" />
